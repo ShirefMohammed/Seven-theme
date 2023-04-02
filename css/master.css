@@ -679,6 +679,7 @@ h3 {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     background-color: #f2f2f24d;
+    overflow-x: hidden;
 }
 
 .news>a {
